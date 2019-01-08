@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<article>
+  <div class="cf pa2">
+    {% for post in site.posts %}
+    <div class="fl w-50 w-25-m w-20-l pa2">
+      <a href="{{ post.url }}" class="db link dim tc">
+        <img src="/assets/img/stickers/{{ post.image }}" alt="{{ post.title }}" class="w-100 db outline black-10"/>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+</article>
