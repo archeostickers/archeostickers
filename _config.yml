@@ -37,7 +37,7 @@ markdown: kramdown
 highlighter: rouge
 
 #paginate
-paginate: 5
+#paginate: 5
 
 sass:
   sass_dir: _sass

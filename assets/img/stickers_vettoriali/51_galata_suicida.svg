@@ -14,9 +14,9 @@
    viewBox="0 0 200 200"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="51_galata_suicida.svg"
-   inkscape:export-filename="/Users/lucacorsato/Documents/osd/website/archeostickers.github.io copia/public/images/stickers/50_codice_hammurabi.png"
+   inkscape:export-filename="/Users/lucacorsato/Documents/osd/website/archeostickers/assets/img/stickers/51_galata_suicida.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="5.5542579"
+     inkscape:cx="-3.5371149"
      inkscape:cy="145.68813"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -61,32 +61,20 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-0.90525097,-852.36216)">
-    <flowRoot
-       transform="matrix(0.9883407,0,0,0.9883407,124.82836,1063.5597)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:27.5px;line-height:125%;font-family:Impact;-inkscape-font-specification:'Impact Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.48680967;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="flowRoot6306"
-       xml:space="preserve"><flowRegion
-         id="flowRegion6308"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:27.5px;font-family:Impact;-inkscape-font-specification:'Impact Condensed';fill:#ffffff;stroke:#000000;stroke-width:0.48680967;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           y="-87.893471"
-           x="-126.26907"
-           height="31.957556"
-           width="236.72089"
-           id="rect6310" /></flowRegion><flowPara
-         id="flowPara6312">FUTURO</flowPara></flowRoot>    <text
+    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90625024px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="6.2260876"
        y="1043.9325"
        id="text4159"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="/Users/lucacorsato/Documents/osd/website/archeostickers.github.io copia/public/images/stickers/text4612.png"
        inkscape:export-xdpi="230.2"
        inkscape:export-ydpi="230.2"><tspan
          sodipodi:role="line"
          id="tspan4161"
          x="6.2260876"
-         y="1043.9325">archeostickers.com</tspan></text>
+         y="1043.9325"
+         style="font-size:3.90625px;line-height:1.25">archeostickers.com</tspan></text>
     <path
        style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.78600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d=""
@@ -96,8 +84,8 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot5865"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:27.5px;line-height:125%;font-family:Impact;-inkscape-font-specification:'Impact Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.48680967;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="matrix(0.9883407,0,0,0.9883407,125.78388,933.30904)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;line-height:0.01%;font-family:Impact;-inkscape-font-specification:'Impact Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.48680967;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.9883407,0,0,0.9883407,127.78388,936.19901)"><flowRegion
          id="flowRegion5867"><rect
            id="rect5869"
            width="236.72089"
@@ -105,7 +93,8 @@
            x="-126.26907"
            y="-87.893471"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:27.5px;font-family:Impact;-inkscape-font-specification:'Impact Condensed';fill:#ffffff;stroke:#000000;stroke-width:0.48680967;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
-         id="flowPara5871">TRAFITTO</flowPara></flowRoot>    <g
+         id="flowPara5871"
+         style="font-size:27.5px;line-height:1.25">TRAFITTO</flowPara></flowRoot>    <g
        id="g6263"
        transform="matrix(0.18110105,0,0,0.18110105,147.2842,785.29298)">
       <path
@@ -230,10 +219,23 @@
       </g>
     </g>
     <flowRoot
+       transform="matrix(0.9883407,0,0,0.9883407,126.82836,1066.4497)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;line-height:0.01%;font-family:Impact;-inkscape-font-specification:'Impact Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.48680967;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot6306"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6308"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:27.5px;font-family:Impact;-inkscape-font-specification:'Impact Condensed';fill:#ffffff;stroke:#000000;stroke-width:0.48680967;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="-87.893471"
+           x="-126.26907"
+           height="31.957556"
+           width="236.72089"
+           id="rect6310" /></flowRegion><flowPara
+         id="flowPara6312"
+         style="font-size:27.5px;line-height:1.25">FUTURO</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6298"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:27.5px;line-height:125%;font-family:Impact;-inkscape-font-specification:'Impact Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.48680967;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="matrix(0.9883407,0,0,0.9883407,124.82836,1030.997)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;line-height:0.01%;font-family:Impact;-inkscape-font-specification:'Impact Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.48680967;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.9883407,0,0,0.9883407,126.82836,1033.887)"><flowRegion
          id="flowRegion6300"><rect
            id="rect6302"
            width="236.72089"
@@ -241,9 +243,10 @@
            x="-126.26907"
            y="-87.893471"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:27.5px;font-family:Impact;-inkscape-font-specification:'Impact Condensed';fill:#ffffff;stroke:#000000;stroke-width:0.48680967;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
-         id="flowPara6304">DAL</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.9883407,0,0,0.9883407,126.25693,998.43436)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:27.5px;line-height:125%;font-family:Impact;-inkscape-font-specification:'Impact Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.48680967;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="flowPara6304"
+         style="font-size:27.5px;line-height:1.25">DAL</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.9883407,0,0,0.9883407,128.25693,1001.3243)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;line-height:0.01%;font-family:Impact;-inkscape-font-specification:'Impact Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.48680967;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot6290"
        xml:space="preserve"><flowRegion
          id="flowRegion6292"><rect
@@ -253,11 +256,12 @@
            height="31.957556"
            width="236.72089"
            id="rect6294" /></flowRegion><flowPara
-         id="flowPara6296">TRAPASSATO</flowPara></flowRoot>    <flowRoot
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:27.17936897px;line-height:125%;font-family:Impact;-inkscape-font-specification:'Impact Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.48113382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="flowPara6296"
+         style="font-size:27.5px;line-height:1.25">TRAPASSATO</flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;line-height:0.01%;font-family:Impact;-inkscape-font-specification:'Impact Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.48113382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot6314"
        xml:space="preserve"
-       transform="translate(0.57951462,8.6347351)"><flowRegion
+       transform="translate(2.5795153,11.524705)"><flowRegion
          id="flowRegion6316"
          style="stroke-width:0.48113382"><rect
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:27.17936897px;font-family:Impact;-inkscape-font-specification:'Impact Condensed';fill:#ffffff;stroke:#000000;stroke-width:0.47552413;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -267,5 +271,5 @@
            width="233.96089"
            id="rect6318" /></flowRegion><flowPara
          id="flowPara6320"
-         style="stroke-width:0.48113382">SONO</flowPara></flowRoot>  </g>
+         style="font-size:27.17936897px;line-height:1.25;stroke-width:0.48113382">SONO</flowPara></flowRoot>  </g>
 </svg>
