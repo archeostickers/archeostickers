@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<article>
+  <div class="cf pa2">
+    {% for post in paginator.posts %}
+    <div class="fl w-50 w-25-m w-20-l pa2">
+      <a href="{{ post.url }}" class="db link dim tc">
+        <img src="/assets/img/stickers/{{ post.image }}" alt="{{ post.title }}" class="w-100 db outline black-10"/>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+</article>
+
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a href="{{ site.url }}/">&laquo; Prev</a>
+    {% else %}
+      <a href="{{ site.url }}/page{{ paginator.previous_page }}/">&laquo; Prev</a>
+    {% endif %}
+  {% else %}
+    <span>&laquo; Prev</span>
+  {% endif %}
+
+  {% if paginator.next_page %}
+    <a class='next' href="{{ site.siteurl }}/page{{ paginator.next_page }}/">Next &raquo;</a>
+  {% else %}
+    <span class='next'>Next &raquo;</span>
+  {% endif %}
+</div>
+{% endif %}
+</div>
+
+
+<script src="{{ site.url }}/assets/js/jquery-3.3.1.js"></script>
+<script src="{{ site.url }}/assets/js/jquery.jscroll.min.js"></script>
+
+<script type="text/javascript">
+// content selector is used to extract the additional items
+$('.content').jscroll({
+  contentSelector: ".content",
+  nextSelector: '.next'
+});
+</script>
