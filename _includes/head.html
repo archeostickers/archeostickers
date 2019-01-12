@@ -7,6 +7,9 @@
   {%- feed_meta -%}
   {% include favicon.html %}
 
+  <!-- Lazy load images -->
+  <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@8.17.0/dist/lazyload.min.js"></script>
+
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
