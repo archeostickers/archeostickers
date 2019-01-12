@@ -29,11 +29,11 @@ defaults:
   - scope:
       path: ""
     values:
-      image: "/assets/img/osd-opg-facebook.png"
+      image: "/assets/img/archeo-opg-facebook.png"
 
 # Favicon
-touch_icon: "assets/img/logos/apple-touch-icon-144-precomposed.png"
-favicon: "/assets/img/favicon/favicon.ico"
+touch_icon: "assets/img/apple-touch-icon-144-precomposed.png"
+favicon: "/assets/img/favicon.ico"
 
 # Build settings
 markdown: kramdown
