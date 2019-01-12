@@ -25,6 +25,4 @@ tags:
 - donna
 ---
 
-Motto tratto da [La cammesella](https://nap.wikipedia.org/wiki/La_cammesella)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0ByGjRaxxj8" frameborder="0" allowfullscreen></iframe>
+Motto tratto da [La cammesella](https://nap.wikipedia.org/wiki/La_cammesella), [versione](https://www.youtube.com/embed/0ByGjRaxxj8) interpretata da Roberto Murolo.
