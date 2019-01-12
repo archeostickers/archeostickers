@@ -27,4 +27,4 @@ tags:
 
 Archeosticker creata per "tutto il resto è noia", intervento del 29-10-2016 alla [Borsa Mediterranea del turismo archeologico](http://www.borsaturismoarcheologico.it/sabato-29-ottobre-2016/) di Paestum
 
-![locandina tutto il resto è noia](/public/images/tuttoilrestoènoia.png)
+![locandina tutto il resto è noia](/assets/img/varie/tuttoilrestoènoia.png)

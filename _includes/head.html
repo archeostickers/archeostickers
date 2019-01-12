@@ -8,6 +8,7 @@
   {% include favicon.html %}
 
   <!-- Lazy load images -->
+  <!-- thanks for code https://github.com/verlok/lazyload-->
   <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@8.17.0/dist/lazyload.min.js"></script>
 
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
