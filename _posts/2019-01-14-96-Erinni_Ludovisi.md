@@ -2,7 +2,7 @@
 title: Erinni Ludovisi
 motto: "I'll be back"
 layout: post
-date: 2019-01-14
+date: 2019-01-15
 numero: 96
 image: 96-Erinni_Ludovisi.png
 
