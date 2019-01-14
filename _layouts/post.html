@@ -30,6 +30,24 @@ layout: default
       <dt class="dib b">Ubicazione:</dt>
       <dd class="dib ml0 gray"><a href="{{ page.museum-link }}" class="link gray underline">{{ page.museum-name }}</a></dd>
     </dl>
+    {% if page.museum-inst %}
+    <dl class="f6 lh-title mv2">
+      <dt class="dib b">Instagram:</dt>
+      <dd class="dib ml0 gray"><a href="https://www.instagram.com/{{ page.museum-inst }}" class="link gray underline">{{ page.museum-inst }}</a></dd>
+    </dl>
+    {% endif %}
+    {% if page.museum-tw %}
+    <dl class="f6 lh-title mv2">
+      <dt class="dib b">Twitter:</dt>
+      <dd class="dib ml0 gray"><a href="https://twitter.com/{{ page.museum-tw }}" class="link gray underline">@{{ page.museum-tw }}</a></dd>
+    </dl>
+    {% endif %}
+    {% if page.museum-fb %}
+    <dl class="f6 lh-title mv2">
+      <dt class="dib b">Facebook:</dt>
+      <dd class="dib ml0 gray"><a href="https://www.facebook.com/{{ page.museum-fb }}" class="link gray underline">{{ page.museum-fb }}</a></dd>
+    </dl>
+    {% endif %}
     <dl class="f6 lh-title mv2">
       <dt class="dib b">Mappa:</dt>
       <dd class="dib ml0 gray"><a href="{{ page.mappa }}" class="link gray underline">{{ page.mappa-name }}</a></dd>

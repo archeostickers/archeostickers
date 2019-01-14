@@ -11,15 +11,19 @@ wiki: https://it.wikipedia.org/wiki/Efebo_di_Maratona
 source: https://commons.wikimedia.org/wiki/File:Bronze_athlete_NAMA_X15118_Athens_Greece.jpg
 source-name: Wikimedia Commons
 
-museum-link: http://www.namuseum.gr/
-museum-name: al Museo archeologico nazionale di Atene
+museum-link: https://www.namuseum.gr/
+museum-name: Museo archeologico nazionale di Atene
+museum-fb: NationalArchaeologicalMuseum
+museum-tw: namuseumathens
+museum-inst: nationalarchaeologicalmuseumgr
 
-frame-osm: '<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=23.707509040832523%2C37.97701833244966%2C23.757462501525882%2C38.001472152522936&amp;layer=mapnik&amp;marker=37.98922935000779%2C23.7324857711792" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=37.9892&amp;mlon=23.7325#map=15/37.9892/23.7325">Visualizza mappa ingrandita</a></small>'
+mappa: https://www.openstreetmap.org/?mlat=37.9892&amp;mlon=23.7325#map=17/37.98937/23.73281
+mappa-name: OpenStreetMap
 
-autore: luca corsato
+autore: Luca Corsato
 social-autore: https://twitter.com/lucacorsato
 social-idea: https://twitter.com/lucacorsato
-idea: luca corsato
+idea: Luca Corsato
 tags:
 - id. corsato
 - uomo
