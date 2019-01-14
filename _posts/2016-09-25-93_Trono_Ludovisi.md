@@ -12,16 +12,20 @@ source: https://commons.wikimedia.org/wiki/File:Ludovisi_throne_Altemps_Inv8570.
 source-name: Wikimedia Commons
 
 museum-link: http://archeoroma.beniculturali.it/musei/museo-nazionale-romano-palazzo-altemps
-museum-name: al Museo Nazionale Romano - Palazzo Altemps
+museum-name: Museo Nazionale Romano Palazzo Altemps
+museum-fb: PalazzoAltemps
+museum-tw: palazzoaltemps
+museum-inst: palazzoaltemps
 
-frame-osm: '<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=12.466650009155273%2C41.89830821766456%2C12.479020357131958%2C41.90408169592661&amp;layer=mapnik&amp;marker=41.90119102932384%2C12.472840547561646" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=41.90119&amp;mlon=12.47284#map=17/41.90120/12.47284">Visualizza mappa ingrandita</a></small>'
 
-autore: luca corsato
+mappa: https://www.openstreetmap.org/?mlat=41.901337&mlon=12.472968&zoom=15#map=15/41.9013/12.4730
+mappa-name: OpenStreetMap
+
+autore: Luca Corsato
 social-autore: https://twitter.com/lucacorsato
 social-idea: https://twitter.com/lauranicotra
 idea: Laura Nicotra
 tags:
-- id. Nicotra
 - donna
 ---
 
