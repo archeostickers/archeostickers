@@ -4,7 +4,7 @@ motto: Sei un cazzone
 layout: post
 date: 2016-07-15
 numero: 91
-image: 91_Priapo_Rivery.png
+thumb: 91_Priapo_Rivery.png
 
 wiki: https://it.wikipedia.org/wiki/Priapo
 source: https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Picardie_Arch%C3%A9o_03.jpg

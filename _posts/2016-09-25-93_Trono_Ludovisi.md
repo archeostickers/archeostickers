@@ -4,7 +4,7 @@ motto: E lèvate 'a cammesella
 layout: post
 date: 2016-09-25
 numero: 93
-image: 93_Ludovisi_throne.png
+thumb: 93_Ludovisi_throne.png
 
 wiki: https://it.wikipedia.org/wiki/Trono_Ludovisi
 source: https://commons.wikimedia.org/wiki/File:Ludovisi_throne_Altemps_Inv8570.jpg

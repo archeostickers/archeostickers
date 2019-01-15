@@ -4,7 +4,7 @@ motto: Tutto qua?!
 layout: post
 date: 2016-10-29
 numero: 94
-image: 94_Marathon_boy.png
+thumb: 94_Marathon_boy.png
 
 wiki: https://it.wikipedia.org/wiki/Efebo_di_Maratona
 source: https://commons.wikimedia.org/wiki/File:Bronze_athlete_NAMA_X15118_Athens_Greece.jpg

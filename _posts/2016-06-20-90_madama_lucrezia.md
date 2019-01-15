@@ -4,7 +4,7 @@ motto: 5 Raggi nun fa' primavera
 layout: post
 date: 2016-06-20
 numero: 90
-image: 90_madama_lucrezia.png
+thumb: 90_madama_lucrezia.png
 
 wiki: https://it.wikipedia.org/wiki/Madama_Lucrezia
 source: https://commons.wikimedia.org/wiki/File:Madama_Lucrezia_Roma_piazza_San_Marco.JPG
