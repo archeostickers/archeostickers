@@ -15,7 +15,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://archeostickers.com
 
 # Contact
-twitter: archeostickers
+twitter:
+  username: archeostickers
+  card: summary_large_image
 github:  archeostickers
 facebook: archeostickers
 instagram: archeostickers
