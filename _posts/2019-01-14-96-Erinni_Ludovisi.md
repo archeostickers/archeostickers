@@ -4,7 +4,7 @@ motto: "I'll be back"
 layout: post
 date: 2019-01-14
 numero: 96
-image: 96-Erinni_Ludovisi_large.jpg
+image: /assets/img/stickers-large/96-Erinni_Ludovisi_large.jpg
 thumb: 96-Erinni_Ludovisi.jpg
 
 wiki: https://it.wikipedia.org/wiki/Erinni
