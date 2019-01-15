@@ -24,7 +24,6 @@ social-autore: https://twitter.com/lucacorsato
 social-idea: https://twitter.com/lucacorsato
 idea: Luca Corsato
 tags:
-- id. corsato
 - uomo
 ---
 

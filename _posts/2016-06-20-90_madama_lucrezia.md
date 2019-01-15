@@ -11,7 +11,7 @@ source: https://commons.wikimedia.org/wiki/File:Madama_Lucrezia_Roma_piazza_San_
 source-name: Wikimedia Commons
 
 museum-link: http://museopalazzovenezia.beniculturali.it/
-museum-name: all'esterno di Palazzo Venezia
+museum-name: esterno di Palazzo Venezia
 museum-fb: PoloMusealeLazioPalazzoVenezia
 museum-tw: pmlazio
 museum-inst: polo_museale_del_lazio

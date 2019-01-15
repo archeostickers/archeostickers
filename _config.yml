@@ -7,7 +7,7 @@ subtitle: 'Sfacciati Classici'
 payoff: 'Sfacciati Classici'
 timecopy: "2015-2019"
 
-description: "Archeostickers: reperti d'arte che diventano sticker sfacciate"
+description: "Archeostickers, sticker sfacciate da reperti d'arte."
 locale: it_IT
 
 # Url
@@ -33,7 +33,7 @@ defaults:
 
 # Favicon
 touch_icon: "assets/img/apple-touch-icon-144-precomposed.png"
-favicon: "/assets/img/favicon.ico"
+favicon: "/assets/img/favicon/favicon.ico"
 
 # Build settings
 markdown: kramdown
