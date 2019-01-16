@@ -1,6 +1,6 @@
 ---
 title: Trono Ludovisi
-motto: E lèvate 'a cammesella
+description: E lèvate 'a cammesella
 layout: post
 date: 2016-09-25
 numero: 93

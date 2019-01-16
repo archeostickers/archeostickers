@@ -1,6 +1,6 @@
 ---
 title: Madama Lucrezia
-motto: 5 Raggi nun fa' primavera
+description: 5 Raggi nun fa' primavera
 layout: post
 date: 2016-06-20
 numero: 90

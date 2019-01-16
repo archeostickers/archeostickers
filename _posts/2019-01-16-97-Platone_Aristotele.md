@@ -1,6 +1,6 @@
 ---
 title: Metafisica di Aristotele
-motto: Non conosciamo la verità senza conoscere la causa
+description: Non conosciamo la verità senza conoscere la causa
 layout: post
 date: 2019-01-16
 numero: 97

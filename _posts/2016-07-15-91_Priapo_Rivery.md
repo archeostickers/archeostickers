@@ -1,6 +1,6 @@
 ---
 title: Priapo di Rivery
-motto: Sei un cazzone
+description: Sei un cazzone
 layout: post
 date: 2016-07-15
 numero: 91

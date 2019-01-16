@@ -1,6 +1,6 @@
 ---
 title: Efebo di Maratona
-motto: Tutto qua?!
+description: Tutto qua?!
 layout: post
 date: 2016-10-29
 numero: 94

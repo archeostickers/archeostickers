@@ -1,6 +1,6 @@
 ---
 title: Erinni Ludovisi
-motto: "I'll be back"
+description: "I'll be back"
 layout: post
 date: 2019-01-14
 numero: 96

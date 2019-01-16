@@ -1,14 +1,14 @@
 ---
-title: Pan
-motto: Capra Capra Capra Capra Capra Capra
+title: Ercole Farnese
+description: Che per favore me lo raccogli?
 layout: post
-date: 2019-01-18
-numero: 98
-image: /assets/img/stickers-large/98-Pan_large.jpg
-thumb: /98-Pan.jpg
+date: 2015-09-22 12:36
+numero: 2
+image: /assets/img/stickers-large/02-Ercole_Farnese_large.jpg
+thumb: 02-Ercole_Farnese.jpg
 
-wiki: https://it.wikipedia.org/wiki/Pan
-source: https://commons.wikimedia.org/wiki/File:Pan_goat_MAN_Napoli_Inv27709_n01.jpg
+wiki: https://it.wikipedia.org/wiki/Ercole_Farnese
+source: https://commons.wikimedia.org/wiki/File:Ercole_in_riposo_(ercole_farnese),_copia_romana_del_190-210_ca._da_orig._greco_del_350-300_ac_ca._04.JPG
 source-name: Wikimedia Commons
 
 museum-link: https://www.museoarcheologiconapoli.it/it/
@@ -25,7 +25,7 @@ social-autore: https://twitter.com/lucacorsato
 social-idea: https://twitter.com/lucacorsato
 idea: Luca Corsato
 tags:
-- Uomo
-- Sesso
-- Mitologia
+- uomo
+- mitologia
+- Museo Archeologico di Napoli
 ---
