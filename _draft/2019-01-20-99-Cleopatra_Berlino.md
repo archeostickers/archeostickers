@@ -2,9 +2,10 @@
 title: Cleopatra
 motto: "Saluta Antonio"
 layout: post
-date: 2019-01-14
-numero: 97
-image: 97-Cleopatra_Berlino.png
+date: 2019-01-20
+numero: 99
+image: /assets/img/stickers-large/99-Cleopatra_Berlino_large.jpg
+thumb: 99-Cleopatra_Berlino.jpg
 
 wiki: https://it.wikipedia.org/wiki/Cleopatra
 source: https://commons.wikimedia.org/wiki/File:Bust_of_Cleopatra_VII_-_Altes_Museum_-_Berlin_-_Germany_2017_(2).jpg
