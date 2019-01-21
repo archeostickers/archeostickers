@@ -1,6 +1,6 @@
 ---
 title: Cleopatra
-motto: "Saluta Antonio"
+description: "Saluta Antonio"
 layout: post
 date: 2019-01-20
 numero: 99
