@@ -8,14 +8,14 @@ image: /assets/img/stickers-large/102-Giorno_Memoria_ita_large.jpg
 thumb: 102-Giorno_Memoria_ita.jpg
 
 wiki: https://it.wikipedia.org/wiki/Giorno_della_Memoria
-source: https://commons.wikimedia.org/wiki/File:Aischylos_Büste.jpg
+source: https://commons.wikimedia.org/wiki/File:Stroop_Report_-_Warsaw_Ghetto_Uprising_BW.jpg
 source-name: Wikimedia Commons
 
-museum-link: http://www.museicapitolini.org/
-museum-name: Musei Capitolini
-museum-fb: MuseiCapitolini
-museum-tw: museiincomune
-museum-inst: museiincomuneroma
+museum-link:
+museum-name:
+museum-fb:
+museum-tw:
+museum-inst: 
 
 mappa:
 mappa-name: OpenStreetMap
