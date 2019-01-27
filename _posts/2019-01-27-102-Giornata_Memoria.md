@@ -11,11 +11,11 @@ wiki: https://it.wikipedia.org/wiki/Giorno_della_Memoria
 source: https://commons.wikimedia.org/wiki/File:Stroop_Report_-_Warsaw_Ghetto_Uprising_BW.jpg
 source-name: Wikimedia Commons
 
-museum-link:
-museum-name:
+museum-link: https://www.ushmm.org/search/results/?q=26543
+museum-name: United States Holocaust Memorial Museum
 museum-fb:
 museum-tw:
-museum-inst: 
+museum-inst:
 
 mappa:
 mappa-name: OpenStreetMap
