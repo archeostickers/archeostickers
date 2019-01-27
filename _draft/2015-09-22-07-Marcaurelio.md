@@ -1,22 +1,23 @@
 ---
 title: Marco Aurelio
+description: Approvo
 layout: post
 date: 2015-09-22 16:48
 numero: 07
-image: /assets/img/stickers-large/07-Marcaurelio_large.png
+image: /assets/img/stickers-large/07-Marcaurelio_large.jpg
 thumb: 07-Marcaurelio.jpg
 
 wiki: https://it.wikipedia.org/wiki/Marco_Aurelio
 source: https://commons.wikimedia.org/wiki/File:Marco_Aurelio_bronzo.JPG
 source-name: Wikimedia Commons
 
-museum-link: https://www.mnhn.fr/
-museum-name: "Muséum national d'histoire naturelle"
-museum-fb: museumnationaldhistoirenaturelle
-museum-tw: Le_Museum
-museum-inst: le_museum
+museum-link: http://www.museicapitolini.org
+museum-name: Musei Capitolini
+museum-fb: MuseiCapitolini
+museum-tw: museiincomune
+museum-inst: museiincomuneroma
 
-mappa: https://www.openstreetmap.org/?mlat=48.842109&mlon=2.356286&zoom=15#map=15/48.8421/2.3563
+mappa: https://www.openstreetmap.org/?mlat=41.892944&mlon=12.48265&zoom=15#map=15/41.8929/12.4827
 mappa-name: OpenStreetMap
 
 autore: Luca Corsato
@@ -26,4 +27,5 @@ idea: Luca Corsato
 tags:
 - uomo
 - persona storica
+- Roma
 ---
