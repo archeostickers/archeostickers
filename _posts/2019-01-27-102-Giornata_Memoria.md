@@ -1,6 +1,6 @@
 ---
 title: Giorno della Memoria
-motto: "Perdono ma non dimentico"
+description: "Perdono ma non dimentico"
 layout: post
 date: 2019-01-27
 numero: 102
