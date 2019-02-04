@@ -1,14 +1,14 @@
 ---
-title: Fauno di Vienna
+title: Scriba Rosso
 description: "Molto bene"
 layout: post
-date: 2015-09-23 11:42
-numero: 13
-image: /assets/img/stickers-large/13-Faunodivienna_large.jpg
-thumb: 13-Faunodivienna.jpg
+date: 2015-09-23 11:32
+numero: 12
+image: /assets/img/stickers-large/12-Scribarosso.jpg
+thumb: 12-Scribarosso.jpg
 
-wiki: https://it.wikipedia.org/wiki/Fauno
-source: https://commons.wikimedia.org/wiki/File:Faunus_Vienna_Ma528.jpg
+wiki: https://it.wikipedia.org/wiki/Scriba_rosso
+source: https://commons.wikimedia.org/wiki/File:Le_Scribe_accroupi_(Musée_du_Louvre)_(8737397991).jpg
 source-name: Wikimedia Commons
 
 museum-link: http://www.louvre.fr/en/homepage
@@ -25,6 +25,6 @@ social-autore: https://twitter.com/lucacorsato
 social-idea: https://twitter.com/lucacorsato
 idea: Luca Corsato
 tags:
-- Mitologia
-- Roma
+- uomo
+- Egitto
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gorgone di Taranto
-motto: "CAZZOGUARDI"
+description: "CAZZOGUARDI"
 layout: post
 date: 2019-01-22
 numero: 100
