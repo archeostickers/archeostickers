@@ -2,7 +2,7 @@
 title: "Publio Cornelio Scipione Africano"
 description: "... E cingiti 'sto elmo!"
 layout: post
-date: 2019-02-03
+date: 2019-02-09
 numero: 107
 image: /assets/img/stickers-large/107-Scipione_Africano_large.jpg
 thumb: 107-Scipione_Africano.jpg
