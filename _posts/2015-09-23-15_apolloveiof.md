@@ -1,11 +1,11 @@
 ---
-title: Apollo di Veio (per gentiluom)
-description: Mi sei piaciuto
+title: Apollo di Veio (per gentidonna)
+description: Mi sei piaciuta
 layout: post
 date: 2015-09-23 12:52
 numero: 15
-image: /assets/img/stickers-large/16-Apolloveio_m_large.jpg
-thumb: 16-Apolloveio_m.jpg
+image: /assets/img/stickers-large/15-Apolloveio_f_large.jpg
+thumb: 15-Apolloveio_f.jpg
 
 wiki: https://it.wikipedia.org/wiki/Apollo_di_Veio
 source: https://upload.wikimedia.org/wikipedia/commons/5/5f/Apollon_de_V%C3%A9ies.JPG
