@@ -2,7 +2,7 @@
 title: Sophia Engastromenou Schliemann
 description: "Chi è 'sta Troia!?"
 layout: post
-date: 2019-02-03
+date: 2019-02-16
 numero: 109
 image: /assets/img/stickers-large/109-Sophia_Schliemann_large.jpg
 thumb: 109-Sophia_Schliemann.jpg
