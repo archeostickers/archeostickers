@@ -1,9 +1,9 @@
 ---
-title: Apollo di Veio (per gentiluom)
+title: Apollo di Veio (per gentiluomo)
 description: Mi sei piaciuto
 layout: post
 date: 2015-09-23 12:52
-numero: 15
+numero: 16
 image: /assets/img/stickers-large/16-Apolloveio_m_large.jpg
 thumb: 16-Apolloveio_m.jpg
 
