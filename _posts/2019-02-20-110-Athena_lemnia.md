@@ -1,8 +1,8 @@
 ---
 title: Athena lemnia
-description: "Scivola sul piano inclinato della mia indifferenza"
+description: "Non insultare la mia intelligenza"
 layout: post
-date: 2019-02-03
+date: 2019-02-20
 numero: 110
 image: /assets/img/stickers-large/110-Athena_lemnia_large.jpg
 thumb: 110-Athena_lemnia.jpg
