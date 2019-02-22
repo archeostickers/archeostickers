@@ -9,7 +9,7 @@ thumb: 112-Villa_Romana_del_Casale_scena_caccia.jpg
 
 wiki: https://it.wikipedia.org/wiki/Villa_romana_del_Casale
 source: https://commons.wikimedia.org/wiki/File:Villa_Romana_del_Casale-Ambulacre_de_la_Grande_Chasse-_Centurion_corrigeant_un_domestique.jpg
-source-name: Wikipedia
+source-name: Wikimedia Commons
 
 museum-link: http://www.villaromanadelcasale.it/
 museum-name: Villa Romana del Casale

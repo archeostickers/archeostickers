@@ -9,7 +9,7 @@ thumb: 110-Athena_lemnia.jpg
 
 wiki: https://it.wikipedia.org/wiki/Athena_Lemnia
 source: https://commons.wikimedia.org/wiki/File:Testa_di_atena_Museo_civico_archeologico_di_Bologna1.JPG
-source-name: Wikipedia
+source-name: Wikimedia Commons
 
 museum-link: http://www.comune.bologna.it/museoarcheologico/
 museum-name: Museo Civico Archeologico di Bologna
