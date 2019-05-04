@@ -13,7 +13,7 @@ source-name: Wikimedia Commons
 
 museum-link: https://www.facebook.com/groups/776250865819339
 museum-name: Archeognock
-museum-fb: https://www.facebook.com/groups/776250865819339
+museum-fb: groups/776250865819339
 museum-tw: https://twitter.com/search?q=archeognock&src=typd
 museum-inst: https://www.instagram.com/explore/tags/archeognock/
 
