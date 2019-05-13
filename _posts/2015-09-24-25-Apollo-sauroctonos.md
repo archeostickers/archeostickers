@@ -1,5 +1,5 @@
 ---
-title: Apollo Sauroktonos
+title: Apollo Sauroctonos
 description: Mi ascolti?
 layout: post
 date: 2015-09-24 21:08
