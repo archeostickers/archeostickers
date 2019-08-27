@@ -1,6 +1,6 @@
 ---
 title: Tabula Claudiana
-description: Death is not the end
+description: Sia utile al nostro interesse generale
 layout: post
 date: 2019-08-26
 numero: 130
