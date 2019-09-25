@@ -2,20 +2,31 @@
 layout: default
 ---
 
-
+<!--
 <div class="bg-shop pa2 ttu tracked tc">
   <a class="link underline-hover white" href="https://shop.spreadshirt.it/archeostickers">t-shirt shop</a>
 </div>
+-->
 
 <section class="cf w-100 pa4-l pa0">
+
   {% for post in site.posts %}
-  <article class="fl w-50 w-25-m w-20-l pa3 pb4-l pb2">
-    <div class="aspect-ratio aspect-ratio--1x1">
-      <a href="{{ post.url }}">
+  <article class="fl w-100 w-33-l w-50-m pa2 pv3">
+    <a href="{{ post.url }}" class="link black hover-bg-light-blue">
+    <div class="aspect-ratio aspect-ratio--1x1" style="background:url(/assets/img/stickers/{{ post.thumb }}) no-repeat center right;background-size: cover;">
+      <div class="aspect-ratio aspect-ratio--1x1 bg-washed-yellow-70 lh-copy black tracked-tight">
+      <h3 class="ttu tracked pl3 pt5">
+        <span class="bg-black-90 lh-copy white ph4 pv2 tracked-tight">
+        {{ post.title }}
+        </span>
+      </h3>
+      </div>
+
+
+      <!-- <a href="{{ post.url }}">
         <img data-src="/assets/img/stickers/{{ post.thumb }}" alt="{{ post.title }}"
-        class="bg-washed-yellow lazy db bg-center cover aspect-ratio--object" />
-      </a>
-    </div>
+        class="bg-washed-yellow lazy db bg-center cover aspect-ratio--object o-40" />
+      </a> -->
   </article>
   {% endfor %}
 </section>

@@ -9,3 +9,7 @@
 .bg-shop {
   background-color: #C80815;
 }
+
+.bg-washed-yellow-50 { background-color: rgba( 255, 252, 235, .5 ); }
+.bg-washed-yellow-60 { background-color: rgba( 255, 252, 235, .6 ); }
+.bg-washed-yellow-70 { background-color: rgba( 255, 252, 235, .7 ); }
