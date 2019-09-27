@@ -13,9 +13,9 @@ source-name: Wikimedia Commons
 
 museum-link: http://musee-site.rhone.fr/
 museum-name: Museo gallo-romano di Fourvière
-museum-fb: museedulouvre
-museum-tw: museelouvre
-museum-inst: museelouvre
+museum-fb: museegalloromain
+museum-tw:
+museum-inst:
 
 mappa: https://www.openstreetmap.org/?mlat=45.760418&mlon=4.819914&zoom=15#map=15/45.7604/4.8199
 mappa-name: OpenStreetMap
