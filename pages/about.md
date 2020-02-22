@@ -14,7 +14,7 @@ Le Archeostickers sono [meme](https://it.wikipedia.org/wiki/Meme_(Internet)) con
 
 <a id="1"></a>
 ## Cosa sono le Archeostickers
-Le archeostickers sono un prodotto di [OSD](https://osd.tools), ideate a settembre 2015 da [Astrid D'Eredità](https://twitter.com/astridrome), [Antonia Falcone](https://twitter.com/antoniafalcone), [Domenica Pate](https://twitter.com/domenica_pate), [Paola Romi](https://twitter.com/OpusPaulicium) e [Luca Corsato](https://twitter.com/lucacorsato), nelle attività di divulgazione di [Professione Archeologo](http://www.professionearcheologo.it/) e [ArcheoPop](http://www.archeopop.it).
+Le archeostickers sono fatte da [Luca Corsato](https://twitter.com/lucacorsato), ideate a settembre 2015 da [Astrid D'Eredità](https://twitter.com/astridrome), [Antonia Falcone](https://twitter.com/antoniafalcone), [Domenica Pate](https://twitter.com/domenica_pate), [Paola Romi](https://twitter.com/OpusPaulicium) e [Luca Corsato](https://twitter.com/lucacorsato), nelle attività di divulgazione di [Professione Archeologo](http://www.professionearcheologo.it/) e [ArcheoPop](http://www.archeopop.it).
 
 Inizialmente nascono comes pacchetto di sticker da inviare come messaggi nell'app di chat [Telegram](https://telegram.org/).
 
@@ -34,6 +34,6 @@ Anche le Archeostickers sono liberamente utilizzabili per qualsiasi scopo, perch
 
 <a id="4"></a>
 ## Segnalazioni
-Ogni contenuto viene verificato ma qualcosa può sempre sfuggire, quindi per qualsiasi segnalazione basta scrivere a [contact@osd.tools][mailto:contact@osd.tools].
+Ogni contenuto viene verificato ma qualcosa può sempre sfuggire, quindi per qualsiasi segnalazione basta scrivere a [luca@osd.tools][mailto:luca@osd.tools].
 
 ![Grazie, Graziella e grazie al...](/assets/img/stickers/37-Tre_Grazie.jpg)
