@@ -1,5 +1,5 @@
 ---
-title: Crocifissione Vangeli Rebbula
+title: Vangeli Rebbula
 description: Perdonaci perché non sappiamo quello che facciamo
 layout: post
 date: 2020-04-10
