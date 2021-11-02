@@ -33,3 +33,5 @@ gem "jekyll-paginate"
 gem "rouge"
 gem "html-proofer"
 gem "jekyll-coffeescript"
+
+gem "webrick", "~> 1.7"
