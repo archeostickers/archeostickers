@@ -12,7 +12,7 @@ locale: it_IT
 
 # Url
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://archeostickers.com
+url: https://archeosticker.com
 
 # Contact
 twitter:
